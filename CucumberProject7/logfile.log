@@ -1,0 +1,24 @@
+2020-06-24 08:13:27,837 INFO  [Log] **************************************************************************************** 
+2020-06-24 08:13:27,838 INFO  [Log] **************************************************************************************** 
+2020-06-24 08:13:27,838 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start of the test script       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-24 08:13:27,838 INFO  [Log] **************************************************************************************** 
+2020-06-24 08:13:27,838 INFO  [Log] **************************************************************************************** 
+2020-06-24 08:13:28,519 INFO  [Log]  Excel sheet opened 
+2020-06-24 08:13:31,904 INFO  [Log] New driver instantiated 
+2020-06-24 08:13:31,911 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-06-24 08:13:35,366 INFO  [Log] Web application launched 
+2020-06-24 08:13:35,373 INFO  [Log] Username picked from Excel is visala.ch042020 
+2020-06-24 08:13:35,373 INFO  [Log] Password picked from Excel is May04_2020 
+2020-06-24 08:13:35,449 INFO  [Log] Username text box found 
+2020-06-24 08:13:35,937 INFO  [Log] Username entered in the Username text box 
+2020-06-24 08:13:35,954 INFO  [Log] Username next btn found 
+2020-06-24 08:13:36,079 INFO  [Log] Clicked on next btn 
+2020-06-24 08:13:36,763 INFO  [Log] Password text box found 
+2020-06-24 08:13:37,476 INFO  [Log] Password entered in the Password text box 
+2020-06-24 08:13:37,495 INFO  [Log] Password next btn found 
+2020-06-24 08:13:37,637 INFO  [Log] Clicked on login btn 
+2020-06-24 08:13:37,981 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-24 08:13:37,981 INFO  [Log] X 
+2020-06-24 08:13:37,981 INFO  [Log] X 
+2020-06-24 08:13:37,981 INFO  [Log] X 
+2020-06-24 08:13:37,981 INFO  [Log] X 
