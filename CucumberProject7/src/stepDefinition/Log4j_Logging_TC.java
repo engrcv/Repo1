@@ -5,7 +5,6 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import myTestNG.pageFactory.*;
 import myTestNG.testBase.*;
 import utility.*;
 

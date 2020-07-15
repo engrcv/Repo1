@@ -13,25 +13,25 @@ import utility.Log;
 
 public class Home_Page {
 
-private static WebElement element = null;
+	private static WebElement element = null;
 
-public static WebElement lnk_MyAccount(WebDriver driver){
+	public static WebElement lnk_MyAccount(WebDriver driver) {
 
-element = driver.findElement(By.id("account"));
+		element = driver.findElement(By.id("account"));
 
-Log.info("My Account link element found");
+		Log.info("My Account link element found");
 
-return element;
+		return element;
 
-}
+	}
 
-public static WebElement lnk_LogOut(WebDriver driver){
+	public static WebElement lnk_LogOut(WebDriver driver) {
 
-element = driver.findElement(By.id("account_logout"));
+		element = driver.findElement(By.id("account_logout"));
 
-Log.info("Log Out link element found");
+		Log.info("Log Out link element found");
 
-return element;
+		return element;
 
-}
+	}
 }

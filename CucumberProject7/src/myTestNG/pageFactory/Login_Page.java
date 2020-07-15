@@ -17,7 +17,6 @@ public class Login_Page {
 		Log.info("Username text box found");
 
 		return element;
-
 	}
 
 	public static WebElement nxtbx_UserName(WebDriver driver) {
@@ -27,7 +26,6 @@ public class Login_Page {
 		Log.info("Username next btn found");
 
 		return element;
-
 	}
 
 	public static WebElement txtbx_Password(WebDriver driver) {
@@ -37,7 +35,6 @@ public class Login_Page {
 		Log.info("Password text box found");
 
 		return element;
-
 	}
 
 	public static WebElement nxtbx_Password(WebDriver driver) {
@@ -47,7 +44,5 @@ public class Login_Page {
 		Log.info("Password next btn found");
 
 		return element;
-
 	}
-
 }
