@@ -1,0 +1,52 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Login to Gmail with user Credentials",
+        "description": "",
+        "id": "login-and-verify-the-inbox-for-unread-gmails;login-to-gmail-with-user-credentials",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7535096899,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Open the Chrome, launch the application and fetch data from excel",
+            "match": {
+              "location": "Log4j_Logging_TC.open_the_Chrome_and_launch_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 10922983917,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I read Enter the Username and Password",
+            "match": {
+              "location": "Log4j_Logging_TC.enter_the_Username_and_Password()"
+            },
+            "keyword": "When "
+          }
+        ]
+      }
+    ],
+    "name": "Login and verify the Inbox for unread Gmails",
+    "description": "",
+    "id": "login-and-verify-the-inbox-for-unread-gmails",
+    "keyword": "Feature",
+    "uri": "Features/Login.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@tag"
+      }
+    ]
+  }
+]
