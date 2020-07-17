@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38768" started-at="2020-07-05T12:56:37 IST" finished-at="2020-07-05T12:57:16 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38768" started-at="2020-07-05T12:56:37 IST" finished-at="2020-07-05T12:57:16 IST">
+      <class name="testRunnerPack.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testRunnerPack.LoginTest@1efed156]" name="setUp" is-config="true" duration-ms="9707" started-at="2020-07-05T12:56:37 IST" finished-at="2020-07-05T12:56:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validLoginPOM()[pri:0, instance:testRunnerPack.LoginTest@1efed156]" name="validLoginPOM" duration-ms="27975" started-at="2020-07-05T12:56:47 IST" finished-at="2020-07-05T12:57:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginPOM -->
+        <test-method status="PASS" signature="TestClose()[pri:0, instance:testRunnerPack.LoginTest@1efed156]" name="TestClose" is-config="true" duration-ms="1026" started-at="2020-07-05T12:57:14 IST" finished-at="2020-07-05T12:57:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestClose -->
+      </class> <!-- testRunnerPack.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
