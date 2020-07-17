@@ -1,0 +1,10 @@
+*************PDF text Comparision results**********
+Line Number:5 Two PDF files have different content at this line 
+File1 has: 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with 
+File2 has: 1960s with the release of Laserset sheets containing Lorem Ipsum passages, and more recently with 
+Line Number:8 Two PDF files have different content at this line 
+File1 has: Lorem Ipsum is simply dummy text of the printing and type industry. Lorem Ipsum has been  
+File2 has: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been  
+Line Number:16 Two PDF files have different content at this line 
+File1 has: the industry's standard dummy text ever since the 1800s, when an unknown printer took a galley of 
+File2 has: the industry's standard dummy text ever since the 1900s, when an unknown printer took a galley of 
