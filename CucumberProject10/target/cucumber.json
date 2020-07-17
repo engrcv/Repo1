@@ -1,0 +1,51 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "1_Attra products and services",
+        "description": "",
+        "id": "login-and-verify-the-inbox-for-unread-gmails;1-attra-products-and-services",
+        "after": [
+          {
+            "result": {
+              "duration": 681770328,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Steps.writeReport(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 28882260201,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I launch Attra.com website and extract the list of services",
+            "match": {
+              "location": "Steps.get_Products_services_Attra()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "Login and verify the Inbox for unread Gmails",
+    "description": "",
+    "id": "login-and-verify-the-inbox-for-unread-gmails",
+    "keyword": "Feature",
+    "uri": "Features/Login.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@tag"
+      }
+    ]
+  }
+]
